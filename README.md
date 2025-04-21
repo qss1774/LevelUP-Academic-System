@@ -61,7 +61,7 @@ This project was built while following a structured learning path and is suitabl
 - 🐬 MySQL (>=8.0)
 - 🐳 Docker (optional for deployment)
   
-### Frontend Setup
+### ✅ Frontend Setup
 - bash
 - Copy
 - Edit
@@ -69,7 +69,7 @@ This project was built while following a structured learning path and is suitabl
 - npm install
 - npm run dev
 
-### Backend Setup
+### ✅ Backend Setup
 - bash
 - Copy
 - Edit
@@ -78,7 +78,7 @@ This project was built while following a structured learning path and is suitabl
 - java -jar target/levelup-academic-system.jar
 - Replace the JAR name with your actual build artifact.
 
-### Docker Deployment (Optional)
+### ✅ Docker Deployment (Optional)
 - bash
 - Copy
 - Edit
@@ -93,7 +93,9 @@ Update the database URL, username, and password in application.yml
 
 Execute the schema.sql (if provided) to initialize tables
 
+
 ### 📘 Learning Path Covered
+
 This project follows a structured learning journey:
 
 🌐 Frontend Fundamentals: HTML, CSS, JavaScript, Vue 3, Axios
@@ -129,7 +131,8 @@ This project follows a structured learning journey:
 
 ## 👤 Author
 Developed by Shu
-🎓 Course Project based on 黑马程序员 curriculum.
+
+🎓 Course Project based on 黑马程序员.
 
 ## 🧾 Project Structure
 
