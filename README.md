@@ -110,25 +110,28 @@ This project follows a structured learning journey:
 ## 📸 Screenshots
 
 🔐 Login Page
+![Login Page](Screenshots/Login.png)
 
 🧑‍🎓 Student Management
+![Student Management](Screenshots/SM.png)
 
 🧑‍🏫 Staff Management
+![Student Management](Screenshots/StaffM.png)
 
 📚 Class Management
+![Class Management](Screenshots/CM.png)
 
 🏫 Department Management
+![Department Management](Screenshots/DM.png)
 
-🏷️ Enrollment Info
+📈 Student Info
+![Student Management](Screenshots/SI.png)
 
-📈 System Info
-
-
-## Author
+## 👤 Author
 Developed by Shu
-Course Project based on 黑马程序员 curriculum.
+🎓 Course Project based on 黑马程序员 curriculum.
 
-## Project Structure
+## 🧾 Project Structure
 
 ```bash
 LevelUP-Academic-System/
