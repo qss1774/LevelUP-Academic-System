@@ -1,0 +1,12 @@
+# Frontend 忽略项
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env
+
+# Backend 忽略项
+Backend/target/
+*.iml
+.idea/
+.DS_Store
+
+
